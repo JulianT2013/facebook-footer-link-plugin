@@ -6,6 +6,11 @@
  * Time: 2:01 PM
  */
 
+/**
+ * @param $content Post content
+ *
+ * @return string
+ */
 function ffl_add_footer( $content ) {
 
 	$footer_output = '<hr />';
